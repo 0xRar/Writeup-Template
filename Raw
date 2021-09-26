@@ -10,6 +10,7 @@
 | -----------     | ----------- |
 | Name:           | **`sqli-is-bad`**  |
 | Category:       | **`Web Security`** |
+| Difficulty:     | **`Easy`**|
 | Points:         | **`100pts`**|
 <!-- The author is optional -->
 <!--| Author:         | **`0xRar`**-->
