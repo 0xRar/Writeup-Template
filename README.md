@@ -12,6 +12,8 @@
 <!-- The author is optional -->
 <!--| Author:         | **`0xRar`**-->
 
+----
+
 # Description: 
 The developer wanted you to test his php & sql login form can you find your way in?
 
