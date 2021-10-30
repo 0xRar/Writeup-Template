@@ -6,12 +6,9 @@
 
 - ## Challenge Information:
 
-|  -              | -           |
-| -----------     | ----------- |
-| Name:           | **`sqli-is-bad`**  |
-| Category:       | **`Web Security`** |
-| Difficulty:     | **`Easy`**|
-| Points:         | **`100pts`**|
+| Name        | Category | Difficulty | Points |
+|-------------|----------|------------|--------|
+| sqli-is-bad | Web      | Easy       | 100pts |
 <!-- The author is optional -->
 <!--| Author:         | **`0xRar`**-->
 
