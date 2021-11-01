@@ -6,11 +6,9 @@
 
 - ## Challenge Information:
 
-| Name        | Category | Difficulty | Points |
-|-------------|----------|------------|--------|
-| sqli-is-bad | Web      | Easy       | 100pts |
-<!-- The author is optional -->
-<!--| Author:         | **`0xRar`**-->
+| Name        | Category | Difficulty | Points | Dev |
+|-------------|----------|------------|--------|-----|
+| sqli-is-bad | Web      | Easy       | 100pts | Rar |
 
 ----
 
